@@ -32,7 +32,7 @@ Comparez la **marche** et la **marche avec transports sans attente** ci-dessous.
 
 | 5 min | 10 min | 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/compare-5.webp" width="250" alt="Proximité à pied · seuil de 5 min" /> | <img src="accessiviz-assets/maps/compare-10.webp" width="250" alt="Proximité à pied · seuil de 10 min" /> | <img src="accessiviz-assets/maps/compare-15.webp" width="250" alt="Proximité à pied · seuil de 15 min" /> |
+| <img src="accessiviz-assets/maps/compare-5.webp" width="360" alt="Proximité à pied · seuil de 5 min" /> | <img src="accessiviz-assets/maps/compare-10.webp" width="360" alt="Proximité à pied · seuil de 10 min" /> | <img src="accessiviz-assets/maps/compare-15.webp" width="360" alt="Proximité à pied · seuil de 15 min" /> |
 | [PDF A3](accessiviz-assets/print-maps/proximite-des-destinations-marche-5-minutes.pdf?raw=true) | [PDF A3](accessiviz-assets/print-maps/proximite-des-destinations-marche-10-minutes.pdf?raw=true) | [PDF A3](accessiviz-assets/print-maps/proximite-des-destinations-marche-15-minutes.pdf?raw=true) |
 | [PNG 50 m](accessiviz-assets/raster-maps/proximite-des-destinations-marche-5-minutes.png?raw=true) | [PNG 50 m](accessiviz-assets/raster-maps/proximite-des-destinations-marche-10-minutes.png?raw=true) | [PNG 50 m](accessiviz-assets/raster-maps/proximite-des-destinations-marche-15-minutes.png?raw=true) |
 
@@ -65,7 +65,7 @@ Une maille vide indique que le modèle n’a pas de point de départ à cet endr
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/nearest_access_score-5.webp" width="250" alt="Proximité des destinations (%) · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-10.webp" width="250" alt="Proximité des destinations (%) · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-15.webp" width="250" alt="Proximité des destinations (%) · Marche · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/nearest_access_score-5.webp" width="360" alt="Proximité des destinations (%) · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-10.webp" width="360" alt="Proximité des destinations (%) · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-15.webp" width="360" alt="Proximité des destinations (%) · Marche · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 25 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 50 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 75 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 100
 
@@ -77,7 +77,7 @@ PNG 50 m · [5 min](accessiviz-assets/raster-maps/proximite-des-destinations-mar
 
 | Marche + transports sans attente · 5 min | Marche + transports sans attente · 10 min | Marche + transports sans attente · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/nearest_access_score-no-wait-5.webp" width="250" alt="Proximité des destinations (%) · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-no-wait-10.webp" width="250" alt="Proximité des destinations (%) · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-no-wait-15.webp" width="250" alt="Proximité des destinations (%) · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
+| <img src="accessiviz-assets/maps/nearest_access_score-no-wait-5.webp" width="360" alt="Proximité des destinations (%) · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-no-wait-10.webp" width="360" alt="Proximité des destinations (%) · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/nearest_access_score-no-wait-15.webp" width="360" alt="Proximité des destinations (%) · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 25 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 50 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 75 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 100
 
@@ -99,7 +99,7 @@ Score de la catégorie = 100 × 2<sup>−t/T</sup>
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/coverage_score-5.webp" width="250" alt="Couverture des catégories (%) · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/coverage_score-10.webp" width="250" alt="Couverture des catégories (%) · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/coverage_score-15.webp" width="250" alt="Couverture des catégories (%) · Marche · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/coverage_score-5.webp" width="360" alt="Couverture des catégories (%) · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/coverage_score-10.webp" width="360" alt="Couverture des catégories (%) · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/coverage_score-15.webp" width="360" alt="Couverture des catégories (%) · Marche · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 25 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 50 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 75 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 100
 
@@ -111,7 +111,7 @@ PNG 50 m · [5 min](accessiviz-assets/raster-maps/couverture-des-categories-marc
 
 | Marche + transports sans attente · 5 min | Marche + transports sans attente · 10 min | Marche + transports sans attente · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/coverage_score-no-wait-5.webp" width="250" alt="Couverture des catégories (%) · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/coverage_score-no-wait-10.webp" width="250" alt="Couverture des catégories (%) · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/coverage_score-no-wait-15.webp" width="250" alt="Couverture des catégories (%) · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
+| <img src="accessiviz-assets/maps/coverage_score-no-wait-5.webp" width="360" alt="Couverture des catégories (%) · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/coverage_score-no-wait-10.webp" width="360" alt="Couverture des catégories (%) · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/coverage_score-no-wait-15.webp" width="360" alt="Couverture des catégories (%) · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 25 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 50 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 75 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 100
 
@@ -131,7 +131,7 @@ Un seul lieu suffit pour que sa catégorie soit comptée.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/worst_time_ratio-5.webp" width="250" alt="Rapport de temps maximal · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-10.webp" width="250" alt="Rapport de temps maximal · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-15.webp" width="250" alt="Rapport de temps maximal · Marche · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/worst_time_ratio-5.webp" width="360" alt="Rapport de temps maximal · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-10.webp" width="360" alt="Rapport de temps maximal · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-15.webp" width="360" alt="Rapport de temps maximal · Marche · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/727880.png" width="12" height="12" /> Trajet manquant · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 0,375 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 0,75 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 1,125 · <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> ≥ 1,5
 
@@ -143,7 +143,7 @@ PNG 50 m · [5 min](accessiviz-assets/raster-maps/rapport-de-temps-maximal-march
 
 | Marche + transports sans attente · 5 min | Marche + transports sans attente · 10 min | Marche + transports sans attente · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/worst_time_ratio-no-wait-5.webp" width="250" alt="Rapport de temps maximal · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-no-wait-10.webp" width="250" alt="Rapport de temps maximal · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-no-wait-15.webp" width="250" alt="Rapport de temps maximal · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
+| <img src="accessiviz-assets/maps/worst_time_ratio-no-wait-5.webp" width="360" alt="Rapport de temps maximal · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-no-wait-10.webp" width="360" alt="Rapport de temps maximal · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/worst_time_ratio-no-wait-15.webp" width="360" alt="Rapport de temps maximal · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/727880.png" width="12" height="12" /> Trajet manquant · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 0,375 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 0,75 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 1,125 · <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> ≥ 1,5
 
@@ -161,7 +161,7 @@ L’échelle de couleurs s’arrête à 1,5. Dans QGIS, la bande 1 donne la vale
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/all_categories_reachable-5.webp" width="250" alt="Toutes les catégories accessibles · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-10.webp" width="250" alt="Toutes les catégories accessibles · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-15.webp" width="250" alt="Toutes les catégories accessibles · Marche · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/all_categories_reachable-5.webp" width="360" alt="Toutes les catégories accessibles · Marche · Marche · 5 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-10.webp" width="360" alt="Toutes les catégories accessibles · Marche · Marche · 10 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-15.webp" width="360" alt="Toutes les catégories accessibles · Marche · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/e64c45.png" width="12" height="12" /> Catégorie manquante · <img src="accessiviz-assets/legendes/4b9f72.png" width="12" height="12" /> Toutes accessibles
 
@@ -173,7 +173,7 @@ PNG 50 m · [5 min](accessiviz-assets/raster-maps/toutes-les-categories-accessib
 
 | Marche + transports sans attente · 5 min | Marche + transports sans attente · 10 min | Marche + transports sans attente · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/all_categories_reachable-no-wait-5.webp" width="250" alt="Toutes les catégories accessibles · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-no-wait-10.webp" width="250" alt="Toutes les catégories accessibles · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-no-wait-15.webp" width="250" alt="Toutes les catégories accessibles · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
+| <img src="accessiviz-assets/maps/all_categories_reachable-no-wait-5.webp" width="360" alt="Toutes les catégories accessibles · Marche + transports sans attente · Marche + transports sans attente · 5 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-no-wait-10.webp" width="360" alt="Toutes les catégories accessibles · Marche + transports sans attente · Marche + transports sans attente · 10 min" /> | <img src="accessiviz-assets/maps/all_categories_reachable-no-wait-15.webp" width="360" alt="Toutes les catégories accessibles · Marche + transports sans attente · Marche + transports sans attente · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/e64c45.png" width="12" height="12" /> Catégorie manquante · <img src="accessiviz-assets/legendes/4b9f72.png" width="12" height="12" /> Toutes accessibles
 
@@ -189,7 +189,7 @@ Peut-on rejoindre au moins un lieu de chacune des neuf catégories dans le temps
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/daily_reach_adapted-5.webp" width="250" alt="Choix de destinations (%) · Marche · 5 min" /> | <img src="accessiviz-assets/maps/daily_reach_adapted-10.webp" width="250" alt="Choix de destinations (%) · Marche · 10 min" /> | <img src="accessiviz-assets/maps/daily_reach_adapted-15.webp" width="250" alt="Choix de destinations (%) · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/daily_reach_adapted-5.webp" width="360" alt="Choix de destinations (%) · Marche · 5 min" /> | <img src="accessiviz-assets/maps/daily_reach_adapted-10.webp" width="360" alt="Choix de destinations (%) · Marche · 10 min" /> | <img src="accessiviz-assets/maps/daily_reach_adapted-15.webp" width="360" alt="Choix de destinations (%) · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 25 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 50 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 75 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 100
 
@@ -227,7 +227,7 @@ Cette carte utilise le profil sans attente. Le gris indique qu’au moins une ca
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/ranked_access_score-5.webp" width="250" alt="Accès aux destinations selon leur rang (%) · Marche · 5 min" /> | <img src="accessiviz-assets/maps/ranked_access_score-10.webp" width="250" alt="Accès aux destinations selon leur rang (%) · Marche · 10 min" /> | <img src="accessiviz-assets/maps/ranked_access_score-15.webp" width="250" alt="Accès aux destinations selon leur rang (%) · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/ranked_access_score-5.webp" width="360" alt="Accès aux destinations selon leur rang (%) · Marche · 5 min" /> | <img src="accessiviz-assets/maps/ranked_access_score-10.webp" width="360" alt="Accès aux destinations selon leur rang (%) · Marche · 10 min" /> | <img src="accessiviz-assets/maps/ranked_access_score-15.webp" width="360" alt="Accès aux destinations selon leur rang (%) · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 25 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 50 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 75 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> 100
 
@@ -352,7 +352,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/grocery-count-5.webp" width="250" alt="Nombre de lieux · Alimentation · Marche · 5 min" /> | <img src="accessiviz-assets/maps/grocery-count-10.webp" width="250" alt="Nombre de lieux · Alimentation · Marche · 10 min" /> | <img src="accessiviz-assets/maps/grocery-count-15.webp" width="250" alt="Nombre de lieux · Alimentation · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/grocery-count-5.webp" width="360" alt="Nombre de lieux · Alimentation · Marche · 5 min" /> | <img src="accessiviz-assets/maps/grocery-count-10.webp" width="360" alt="Nombre de lieux · Alimentation · Marche · 10 min" /> | <img src="accessiviz-assets/maps/grocery-count-15.webp" width="360" alt="Nombre de lieux · Alimentation · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -415,7 +415,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/healthcare-count-5.webp" width="250" alt="Nombre de lieux · Santé · Marche · 5 min" /> | <img src="accessiviz-assets/maps/healthcare-count-10.webp" width="250" alt="Nombre de lieux · Santé · Marche · 10 min" /> | <img src="accessiviz-assets/maps/healthcare-count-15.webp" width="250" alt="Nombre de lieux · Santé · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/healthcare-count-5.webp" width="360" alt="Nombre de lieux · Santé · Marche · 5 min" /> | <img src="accessiviz-assets/maps/healthcare-count-10.webp" width="360" alt="Nombre de lieux · Santé · Marche · 10 min" /> | <img src="accessiviz-assets/maps/healthcare-count-15.webp" width="360" alt="Nombre de lieux · Santé · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -478,7 +478,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/education-count-5.webp" width="250" alt="Nombre de lieux · Éducation · Marche · 5 min" /> | <img src="accessiviz-assets/maps/education-count-10.webp" width="250" alt="Nombre de lieux · Éducation · Marche · 10 min" /> | <img src="accessiviz-assets/maps/education-count-15.webp" width="250" alt="Nombre de lieux · Éducation · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/education-count-5.webp" width="360" alt="Nombre de lieux · Éducation · Marche · 5 min" /> | <img src="accessiviz-assets/maps/education-count-10.webp" width="360" alt="Nombre de lieux · Éducation · Marche · 10 min" /> | <img src="accessiviz-assets/maps/education-count-15.webp" width="360" alt="Nombre de lieux · Éducation · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -541,7 +541,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/recreation-count-5.webp" width="250" alt="Nombre de lieux · Loisirs · Marche · 5 min" /> | <img src="accessiviz-assets/maps/recreation-count-10.webp" width="250" alt="Nombre de lieux · Loisirs · Marche · 10 min" /> | <img src="accessiviz-assets/maps/recreation-count-15.webp" width="250" alt="Nombre de lieux · Loisirs · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/recreation-count-5.webp" width="360" alt="Nombre de lieux · Loisirs · Marche · 5 min" /> | <img src="accessiviz-assets/maps/recreation-count-10.webp" width="360" alt="Nombre de lieux · Loisirs · Marche · 10 min" /> | <img src="accessiviz-assets/maps/recreation-count-15.webp" width="360" alt="Nombre de lieux · Loisirs · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -604,7 +604,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/dining-count-5.webp" width="250" alt="Nombre de lieux · Restauration · Marche · 5 min" /> | <img src="accessiviz-assets/maps/dining-count-10.webp" width="250" alt="Nombre de lieux · Restauration · Marche · 10 min" /> | <img src="accessiviz-assets/maps/dining-count-15.webp" width="250" alt="Nombre de lieux · Restauration · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/dining-count-5.webp" width="360" alt="Nombre de lieux · Restauration · Marche · 5 min" /> | <img src="accessiviz-assets/maps/dining-count-10.webp" width="360" alt="Nombre de lieux · Restauration · Marche · 10 min" /> | <img src="accessiviz-assets/maps/dining-count-15.webp" width="360" alt="Nombre de lieux · Restauration · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -667,7 +667,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/shopping-count-5.webp" width="250" alt="Nombre de lieux · Commerces et services · Marche · 5 min" /> | <img src="accessiviz-assets/maps/shopping-count-10.webp" width="250" alt="Nombre de lieux · Commerces et services · Marche · 10 min" /> | <img src="accessiviz-assets/maps/shopping-count-15.webp" width="250" alt="Nombre de lieux · Commerces et services · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/shopping-count-5.webp" width="360" alt="Nombre de lieux · Commerces et services · Marche · 5 min" /> | <img src="accessiviz-assets/maps/shopping-count-10.webp" width="360" alt="Nombre de lieux · Commerces et services · Marche · 10 min" /> | <img src="accessiviz-assets/maps/shopping-count-15.webp" width="360" alt="Nombre de lieux · Commerces et services · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -730,7 +730,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/civic-count-5.webp" width="250" alt="Nombre de lieux · Services civiques · Marche · 5 min" /> | <img src="accessiviz-assets/maps/civic-count-10.webp" width="250" alt="Nombre de lieux · Services civiques · Marche · 10 min" /> | <img src="accessiviz-assets/maps/civic-count-15.webp" width="250" alt="Nombre de lieux · Services civiques · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/civic-count-5.webp" width="360" alt="Nombre de lieux · Services civiques · Marche · 5 min" /> | <img src="accessiviz-assets/maps/civic-count-10.webp" width="360" alt="Nombre de lieux · Services civiques · Marche · 10 min" /> | <img src="accessiviz-assets/maps/civic-count-15.webp" width="360" alt="Nombre de lieux · Services civiques · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -793,7 +793,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/nature-count-5.webp" width="250" alt="Nombre de lieux · Nature · Marche · 5 min" /> | <img src="accessiviz-assets/maps/nature-count-10.webp" width="250" alt="Nombre de lieux · Nature · Marche · 10 min" /> | <img src="accessiviz-assets/maps/nature-count-15.webp" width="250" alt="Nombre de lieux · Nature · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/nature-count-5.webp" width="360" alt="Nombre de lieux · Nature · Marche · 5 min" /> | <img src="accessiviz-assets/maps/nature-count-10.webp" width="360" alt="Nombre de lieux · Nature · Marche · 10 min" /> | <img src="accessiviz-assets/maps/nature-count-15.webp" width="360" alt="Nombre de lieux · Nature · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
@@ -856,7 +856,7 @@ Trajet le plus rapide dans cette catégorie avec montée immédiate.
 
 | Marche · 5 min | Marche · 10 min | Marche · 15 min |
 |----|----|----|
-| <img src="accessiviz-assets/maps/culture-count-5.webp" width="250" alt="Nombre de lieux · Culture · Marche · 5 min" /> | <img src="accessiviz-assets/maps/culture-count-10.webp" width="250" alt="Nombre de lieux · Culture · Marche · 10 min" /> | <img src="accessiviz-assets/maps/culture-count-15.webp" width="250" alt="Nombre de lieux · Culture · Marche · 15 min" /> |
+| <img src="accessiviz-assets/maps/culture-count-5.webp" width="360" alt="Nombre de lieux · Culture · Marche · 5 min" /> | <img src="accessiviz-assets/maps/culture-count-10.webp" width="360" alt="Nombre de lieux · Culture · Marche · 10 min" /> | <img src="accessiviz-assets/maps/culture-count-15.webp" width="360" alt="Nombre de lieux · Culture · Marche · 15 min" /> |
 
 <img src="accessiviz-assets/legendes/7a0403.png" width="12" height="12" /> 0 · <img src="accessiviz-assets/legendes/fb7e21.png" width="12" height="12" /> 2 · <img src="accessiviz-assets/legendes/a4fc3c.png" width="12" height="12" /> 4 · <img src="accessiviz-assets/legendes/28bceb.png" width="12" height="12" /> 6 · <img src="accessiviz-assets/legendes/30123b.png" width="12" height="12" /> ≥ 8
 
