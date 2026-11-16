@@ -1,15 +1,21 @@
 # Workshop AccessiViz
 ## Atelier 5 SAGEO 2026 : "Comment représenter l’accessibilité urbaine ?"
 
-Dans le cadre de la conférence SAGEO 2026 (https://sageo2026.sciencesconf.org/), nous organisons un atelier consacré **à l’utilisation de métaphores pour cartographier l’accessibilité urbaine - AccessiViz** (atelier numéro 5 [https://sageo2026.sciencesconf.org/resource/page/id/18](https://sageo2026.sciencesconf.org/resource/page/id/18)).
+Dans le cadre de la conférence [SAGEO 2026](https://sageo2026.sciencesconf.org/), nous organisons un atelier consacré **à l’utilisation de métaphores pour cartographier l’accessibilité urbaine - AccessiViz** - voir : [sageo2026/.../atelier5](https://sageo2026.sciencesconf.org/resource/page/id/18).
 
 Cet atelier aura lieu le mardi 17 novembre 2026 à INP-AgroToulouse (ENSAT), de 10h à 12h, et de 13h30 à 15h30.
 
 ## Objectif de l'atelier
 
-L'objectif de cet atelier est **d’explorer collectivement les possibilités offertes par l’utilisation de métaphores dans les représentations cartographiques de l’accessibilité urbaine** au sens large (facilité d’accès à un point dans l’espace urbain en transport ou à pied, facilité d’accès à des aménités/services…), en partant de l'hypothèse que l'utilisation de métaphores permet d'améliorer la transmission d’information vers différents publics, de par la possibilité de représenter plus concrètement une information abstraite, de proposer des représentations graphiques plus impactantes et d'améliorer l'engagement des utilisateur·trices (Tkachev et al., 2022). Le but est de proposer des alternatives aux représentations ordinaires de l’accessibilité, prenant généralement la forme de cartes choroplèthes, isoplèthes, de trames régulières ou irrégulières (carroyage), voire des représentations 3D ou anamorphoses, pour représenter un indicateur quantitatif (Albacete et al., 2017 ; Kumar et al., 2021 ; Viry el al., 2016 ; Keler et al., 2019). L'idée est de travailler sur le rendu des cartes, en explorant collectivement l’usage de métaphores ou d’analogies :  leurs effets sur le résultat cartographique et leur intérêt pour la perception de l'information principale. 
+L'objectif de cet atelier est **d’explorer collectivement les possibilités offertes par l’utilisation de métaphores dans les représentations cartographiques de l’accessibilité urbaine** au sens large (facilité d’accès à un point dans l’espace urbain en transport ou à pied, facilité d’accès à des aménités/services…), en partant de l'hypothèse que l'utilisation de métaphores permet d'améliorer la transmission d’information vers différents publics, de par la possibilité de représenter plus concrètement une information abstraite, de proposer des représentations graphiques plus impactantes et d'améliorer l'engagement des utilisateur·trices (Tkachev et al., 2022). 
 
-*Métaphore (réthorique) : Figure d'expression par laquelle on désigne une entité conceptuelle au moyen d'un terme qui, en langue, en signifie une autre en vertu d'une analogie entre les deux entités rapprochées et finalement fondues.
+Le but est de proposer des alternatives aux représentations ordinaires de l’accessibilité, prenant généralement la forme de cartes choroplèthes, isoplèthes, de trames régulières ou irrégulières (carroyage), voire des représentations 3D ou anamorphoses, pour représenter un indicateur quantitatif (Albacete et al., 2017 ; Kumar et al., 2021 ; Viry el al., 2016 ; Keler et al., 2019). 
+
+L'idée est de travailler sur le rendu des cartes, en explorant collectivement l’usage de métaphores ou d’analogies :  leurs effets sur le résultat cartographique et leur intérêt pour la perception de l'information principale. 
+
+*Métaphore (rhétorique) : Figure d'expression par laquelle on désigne une entité conceptuelle au moyen d'un terme qui, en langue, en signifie une autre en vertu d'une analogie entre les deux entités rapprochées et finalement fondues.
+
+L'atelier va donc s'appuyer sur un ensemble de **données géo numériques disponibles sur la métropole Toulousaine**, incluant des indicateurs et des cartes d'accessibilités au rendu à retravailler. [accéder aux données](https://github.com/magisAR9/JE-AccessiViz/blob/main/data-accessiviz.md)
 
 ## Déroulé de l'atelier
 
@@ -33,7 +39,7 @@ Les inscriptions sont ouvertes jusqu’au 30 octobre, sur le site de [SAGEO 2026
 
 Cet atelier est organisé par Géodata Paris et le département AME-splott dans le cadre de l'AMI RETICULAR de l'Univ. Gustave Eiffel, avec le soutien de l’Action de recherches n°09 (Carto)graphies et (Géo)visualisations de données du GdR CNRS MAGIS
 
-Organisateur·rice·s: Jacques Gautier, Maria Jesus Lobo, Maxim Spur et Mathieu Brédif (pour Géodata), Françoise Bahoken (Univ. Gustave Eiffel) et  Anne-Christine Bronner (CNRS) pour l'AR9
+Organisateur·rice·s : Jacques Gautier, Maria Jesus Lobo, Maxim Spur et Mathieu Brédif (Univ. Gustave Eiffel/Géodata), Françoise Bahoken (Univ. Gustave Eiffel/AME-splott) et Anne-Christine Bronner (CNRS) pour l'AR9.
 
 ## Bibliographie
 
