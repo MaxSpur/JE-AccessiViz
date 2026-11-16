@@ -24,7 +24,7 @@ Quels commerces, services et autres lieux peut-on rejoindre à pied à proximit�
 
 Comparez la **marche** et la **marche avec transports sans attente** ci-dessous. Le second mode retient le trajet le plus rapide, y compris à pied. La montée est immédiate. La durée inclut la marche, le temps à bord, les arrêts en cours de trajet et les correspondances.
 
-[Télécharger l’atlas (PDF A3, 35 pages, 57,9 Mo)](accessiviz-assets/atlas-accessiviz-a3.pdf?raw=true)
+[Télécharger l’atlas (PDF A3, 35 pages, 57,6 Mo)](accessiviz-assets/atlas-accessiviz-a3.pdf?raw=true)
 
 **PDF A3** pour imprimer. Chaque maille de 50 m est dessinée comme un rectangle vectoriel pour conserver des contours nets à l’agrandissement. Les titres, légendes et couches de contexte sont aussi vectoriels.
 
