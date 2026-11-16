@@ -11,8 +11,8 @@ Cartes et rejeu d’itinéraires pour l’atelier sur l’accessibilité urbaine
 ## Téléchargements QGIS
 
 - [Marche seulement (108,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-only.zip) · [Dossier ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking&mode=grid)
-- [Transports sans attente seulement (80,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-no-wait-transit-only.zip) · [Dossier ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Ftransit&mode=grid)
-- [Les deux modes (176,9 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-and-no-wait-transit.zip) · [Dossier ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit&mode=grid)
+- [Transports sans attente seulement (80,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-no-wait-transit-only-v2.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Ftransit&mode=grid)
+- [Les deux modes (177,4 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-and-no-wait-transit-v2.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit&mode=grid)
 
 Décompressez le ZIP et ouvrez workshop.qgs.
 
@@ -24,7 +24,7 @@ Quels commerces, services et autres lieux peut-on rejoindre à pied à proximit�
 
 Comparez la **marche** et la **marche avec transports sans attente** ci-dessous. Le second mode retient le trajet le plus rapide, y compris à pied. La montée est immédiate. La durée inclut la marche, le temps à bord, les arrêts en cours de trajet et les correspondances.
 
-[Télécharger l’atlas (PDF A3, 35 pages, 57,4 Mo)](accessiviz-assets/atlas-accessiviz-a3.pdf?raw=true)
+[Télécharger l’atlas (PDF A3, 35 pages, 57,9 Mo)](accessiviz-assets/atlas-accessiviz-a3.pdf?raw=true)
 
 **PDF A3** pour imprimer. Chaque maille de 50 m est dessinée comme un rectangle vectoriel pour conserver des contours nets à l’agrandissement. Les titres, légendes et couches de contexte sont aussi vectoriels.
 
@@ -277,7 +277,7 @@ Marche et transports · sans attente à la montée
 
 [PDF A3](accessiviz-assets/print-maps/temps-pour-atteindre-chaque-categorie-marche-et-transports-sans-attente.pdf?raw=true) · [PNG 50 m](accessiviz-assets/raster-maps/temps-pour-atteindre-chaque-categorie-marche-et-transports-sans-attente.png?raw=true)
 
-Et si un véhicule était prêt à partir chaque fois que vous arrivez à un arrêt ? Le modèle utilise les trajets Tisséo des deux jours de service de l’atelier et suppose que l’on peut monter sans attendre. Il compte le temps de marche, le temps à bord et les correspondances.
+Et si un véhicule était prêt à partir chaque fois que vous arrivez à un arrêt ? Le modèle utilise les trajets Tisséo des deux jours de service de l’atelier et suppose que l’on peut monter sans attendre. Il compte le temps de marche, le temps à bord et les correspondances. La marche jusqu’au premier arrêt peut dépasser 15 minutes. Les correspondances à pied estimées sont limitées à 15 minutes.
 
 Pour chaque catégorie, il retient le trajet le plus rapide sur l’un des deux jours ou à pied. La carte montre le plus long de ces neuf trajets. Elle représente des conditions favorables. Les trajets réels dépendent des horaires.
 
@@ -309,7 +309,7 @@ Temps à pied moins temps en transports sans attente
 
 [PDF A3](accessiviz-assets/print-maps/temps-gagne-grace-aux-transports-marche-et-transports-sans-attente.pdf?raw=true) · [PNG 50 m](accessiviz-assets/raster-maps/temps-gagne-grace-aux-transports-marche-et-transports-sans-attente.png?raw=true)
 
-On soustrait le temps pour atteindre chaque catégorie sans attente du temps à pied. Ici, 128 735 mailles gagnent au moins cinq minutes.
+On soustrait le temps pour atteindre chaque catégorie sans attente du temps à pied. Ici, 197 593 mailles gagnent au moins cinq minutes.
 
 La différence est calculée à partir des durées complètes. L’échelle de couleurs va de 0 à 30 minutes. Le violet foncé correspond à 30 minutes gagnées ou plus. Une maille reste vide si l’un des deux temps est inconnu.
 
@@ -1429,7 +1429,7 @@ La carte affiche les destinations de la catégorie dans cette emprise. Les lieux
 
 [PDF A3](accessiviz-assets/print-maps/chemins-accessibles-a-pied-depuis-une-maille-de-colomiers-en-15-minutes.pdf?raw=true)
 
-[Télécharger le guide interactif (HTML)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit%2FWORKSHOP-GUIDE.html&mode=grid&download=1)
+[Télécharger le guide interactif (HTML, édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit%2FWORKSHOP-GUIDE.html&mode=grid&download=1)
 
 <details>
 <summary>Du rejeu aux indicateurs publiés</summary>
