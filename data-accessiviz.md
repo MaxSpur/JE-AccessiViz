@@ -4,7 +4,13 @@
 
 Cartes et rejeu d’itinéraires pour l’atelier sur l’accessibilité urbaine à Toulouse.
 
-[Comparer les durées](#start) · [Couches par durée](#budgets) · [Indicateurs communs](#shared) · [Destinations](#categories) · [Qualité des mailles](#quality) · [Contexte et tableaux](#context) · [Suivre un trajet](#calculation) · [Équipe de l’atelier](#workshop) · [Déposer vos productions](#productions)
+[Déposer vos productions](#productions) · [Comparer les durées](#start) · [Couches par durée](#budgets) · [Indicateurs communs](#shared) · [Destinations](#categories) · [Qualité des mailles](#quality) · [Contexte et tableaux](#context) · [Suivre un trajet](#calculation) · [Équipe de l’atelier](#workshop)
+
+<a name="productions"></a>
+
+## Productions de l’atelier
+
+**[Déposer vos productions sur ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Productions&mode=grid)**
 
 <a name="downloads"></a>
 
@@ -1494,10 +1500,6 @@ Le plus long des neuf trajets dure 9,35 minutes. En divisant cette durée par ci
 ## L’atelier
 
 Réalisez une représentation de l’accessibilité urbaine avec vos outils ou sur papier. Dans un second temps, discutez des propositions les plus parlantes pour un large public. [Programme des ateliers](https://sageo2026.sciencesconf.org/page/ateliers_proposes?lang=fr)
-
-<a name="productions"></a>
-
-**[Déposer vos productions sur ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Productions&mode=grid)**
 
 ### Responsables
 
