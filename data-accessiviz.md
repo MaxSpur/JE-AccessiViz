@@ -12,7 +12,7 @@ Cartes et rejeu d’itinéraires pour l’atelier sur l’accessibilité urbaine
 
 - [Marche seulement (108,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-only.zip) · [Dossier ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking&mode=grid)
 - [Transports sans attente seulement (80,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-no-wait-transit-only-v2.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Ftransit&mode=grid)
-- [Les deux modes (177,4 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-and-no-wait-transit-v2.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit&mode=grid)
+- [Les deux modes (171,8 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-and-no-wait-transit-v3.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit&mode=grid)
 
 Décompressez le ZIP et ouvrez workshop.qgs.
 
@@ -1429,7 +1429,7 @@ La carte affiche les destinations de la catégorie dans cette emprise. Les lieux
 
 [PDF A3](accessiviz-assets/print-maps/chemins-accessibles-a-pied-depuis-une-maille-de-colomiers-en-15-minutes.pdf?raw=true)
 
-[Télécharger le guide interactif (HTML, édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit%2FWORKSHOP-GUIDE.html&mode=grid&download=1)
+[Télécharger le guide interactif (HTML)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/accessiviz-guide-interactif.html)
 
 <details>
 <summary>Du rejeu aux indicateurs publiés</summary>
@@ -1477,7 +1477,7 @@ Le plus long des neuf trajets dure 9,35 minutes. En divisant cette durée par ci
 
 ## L’atelier
 
-Réalisez une représentation de l’accessibilité urbaine avec vos outils ou sur papier. Dans un second temps, discutez des propositions les plus parlantes pour un large public. Une sélection sera présentée à SAGEO et soumise à un vote en ligne. [Programme des ateliers](https://sageo2026.sciencesconf.org/page/ateliers_proposes?lang=fr)
+Réalisez une représentation de l’accessibilité urbaine avec vos outils ou sur papier. Dans un second temps, discutez des propositions les plus parlantes pour un large public. [Programme des ateliers](https://sageo2026.sciencesconf.org/page/ateliers_proposes?lang=fr)
 
 ### Responsables
 
