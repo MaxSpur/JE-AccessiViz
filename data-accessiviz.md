@@ -2,7 +2,7 @@
 
 # Comment représenter l’accessibilité urbaine ?
 
-Cartes et rejeu d’itinéraires pour l’atelier sur l’accessibilité urbaine à Toulouse.
+Cartes et rejeu d’itinéraires pour l’atelier sur l’accessibilité urbaine à Toulouse. [Guide interactif et jeux de données](https://www.maximspur.com/accessiviz/)
 
 [Déposer vos productions](#productions) · [Comparer les durées](#start) · [Couches par durée](#budgets) · [Indicateurs communs](#shared) · [Destinations](#categories) · [Qualité des mailles](#quality) · [Contexte et tableaux](#context) · [Suivre un trajet](#calculation) · [Équipe de l’atelier](#workshop)
 
@@ -1500,6 +1500,8 @@ Le plus long des neuf trajets dure 9,35 minutes. En divisant cette durée par ci
 ## L’atelier
 
 Réalisez une représentation de l’accessibilité urbaine avec vos outils ou sur papier. Dans un second temps, discutez des propositions les plus parlantes pour un large public. [Programme des ateliers](https://sageo2026.sciencesconf.org/page/ateliers_proposes?lang=fr)
+
+[Déposer vos productions via le lien Magis](https://sharedocs.huma-num.fr/wl/?id=EpygBooPP5lqGl1i4EZIdlBtLVn3aEV8)
 
 ### Responsables
 
