@@ -10,9 +10,9 @@ Cartes et rejeu d’itinéraires pour l’atelier sur l’accessibilité urbaine
 
 ## Téléchargements QGIS
 
-- [Marche seulement (108,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-only.zip) · [Dossier ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking&mode=grid)
-- [Transports sans attente seulement (80,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-no-wait-transit-only-v2.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Ftransit&mode=grid)
-- [Les deux modes (171,8 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-and-no-wait-transit-v3.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit&mode=grid)
+- [Marche seulement (108,2 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-only-v2.zip) · [Dossier ShareDocs](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking&mode=grid)
+- [Transports sans attente seulement (80,3 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-no-wait-transit-only-v3.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Ftransit&mode=grid)
+- [Les deux modes (172,1 MB)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/toulouse-walking-and-no-wait-transit-v4.zip) · [Dossier ShareDocs (édition précédente)](https://sharedocs.huma-num.fr/wl/?id=vuYaF43INPyqNSy62W2VL1VktpfjYSSB&path=Ressources%2FDonnees%2Fwalking%2Btransit&mode=grid)
 
 Décompressez le ZIP et ouvrez workshop.qgs.
 
@@ -24,7 +24,7 @@ Quels commerces, services et autres lieux peut-on rejoindre à pied à proximit�
 
 Comparez la **marche** et la **marche avec transports sans attente** ci-dessous. Le second mode retient le trajet le plus rapide, y compris à pied. La montée est immédiate. La durée inclut la marche, le temps à bord, les arrêts en cours de trajet et les correspondances.
 
-[Télécharger l’atlas (PDF A3, 35 pages, 57,6 Mo)](accessiviz-assets/atlas-accessiviz-a3.pdf?raw=true)
+[Télécharger l’atlas (PDF A3, 36 pages, 58,0 Mo)](accessiviz-assets/atlas-accessiviz-a3.pdf?raw=true)
 
 **PDF A3** pour imprimer. Chaque maille de 50 m est dessinée comme un rectangle vectoriel pour conserver des contours nets à l’agrandissement. Les titres, légendes et couches de contexte sont aussi vectoriels.
 
@@ -211,13 +211,29 @@ Score de la catégorie = 100 × (1 − e<sup>−3n/s</sup>)
 
 Marche + transports sans attente
 
-<img src="accessiviz-assets/legendes/4477aa.png" width="12" height="12" /> Alimentation · <img src="accessiviz-assets/legendes/ee6677.png" width="12" height="12" /> Santé · <img src="accessiviz-assets/legendes/228833.png" width="12" height="12" /> Éducation · <img src="accessiviz-assets/legendes/ccbb44.png" width="12" height="12" /> Loisirs · <img src="accessiviz-assets/legendes/66ccee.png" width="12" height="12" /> Restauration · <img src="accessiviz-assets/legendes/aa3377.png" width="12" height="12" /> Commerces et services · <img src="accessiviz-assets/legendes/bbbbbb.png" width="12" height="12" /> Services civiques · <img src="accessiviz-assets/legendes/4f9058.png" width="12" height="12" /> Nature · <img src="accessiviz-assets/legendes/994f93.png" width="12" height="12" /> Culture · <img src="accessiviz-assets/legendes/727880.png" width="12" height="12" /> Trajet manquant
+<img src="accessiviz-assets/legendes/0066ff.png" width="12" height="12" /> Alimentation · <img src="accessiviz-assets/legendes/ff3048.png" width="12" height="12" /> Santé · <img src="accessiviz-assets/legendes/00a658.png" width="12" height="12" /> Éducation · <img src="accessiviz-assets/legendes/ffda00.png" width="12" height="12" /> Loisirs · <img src="accessiviz-assets/legendes/00d7ef.png" width="12" height="12" /> Restauration · <img src="accessiviz-assets/legendes/ff38cf.png" width="12" height="12" /> Commerces et services · <img src="accessiviz-assets/legendes/ff7d13.png" width="12" height="12" /> Services civiques · <img src="accessiviz-assets/legendes/7ada00.png" width="12" height="12" /> Nature · <img src="accessiviz-assets/legendes/7428ff.png" width="12" height="12" /> Culture · <img src="accessiviz-assets/legendes/9b9ca3.png" width="12" height="12" /> Trajet manquant
 
 [PDF A3](accessiviz-assets/print-maps/categorie-limitante-marche-et-transports-sans-attente.pdf?raw=true) · [PNG 50 m](accessiviz-assets/raster-maps/categorie-limitante-marche-et-transports-sans-attente.png?raw=true)
 
 Depuis la maille, on cherche le trajet le plus court dans chaque catégorie. La catégorie limitante est celle dont le trajet est le plus long parmi ces neuf trajets. Si le cabinet médical le plus proche est à 18 minutes et que toutes les autres catégories demandent moins de temps, la catégorie limitante est la santé.
 
 Cette carte utilise le profil sans attente. Le gris indique qu’au moins une catégorie est sans itinéraire dans le modèle.
+
+<a name="closest-category"></a>
+
+### Catégorie la plus proche
+
+<img src="accessiviz-assets/maps/closest_category.webp" width="360" alt="Catégorie la plus proche" />
+
+Marche + transports sans attente
+
+<img src="accessiviz-assets/legendes/0066ff.png" width="12" height="12" /> Alimentation · <img src="accessiviz-assets/legendes/ff3048.png" width="12" height="12" /> Santé · <img src="accessiviz-assets/legendes/00a658.png" width="12" height="12" /> Éducation · <img src="accessiviz-assets/legendes/ffda00.png" width="12" height="12" /> Loisirs · <img src="accessiviz-assets/legendes/00d7ef.png" width="12" height="12" /> Restauration · <img src="accessiviz-assets/legendes/ff38cf.png" width="12" height="12" /> Commerces et services · <img src="accessiviz-assets/legendes/ff7d13.png" width="12" height="12" /> Services civiques · <img src="accessiviz-assets/legendes/7ada00.png" width="12" height="12" /> Nature · <img src="accessiviz-assets/legendes/7428ff.png" width="12" height="12" /> Culture · <img src="accessiviz-assets/legendes/34353d.png" width="12" height="12" /> Catégories à égalité
+
+[PDF A3](accessiviz-assets/print-maps/categorie-la-plus-proche-marche-et-transports-sans-attente.pdf?raw=true) · [PNG 50 m](accessiviz-assets/raster-maps/categorie-la-plus-proche-marche-et-transports-sans-attente.png?raw=true)
+
+On compare les trajets les plus courts vers chacune des neuf catégories. La couleur indique la catégorie que l’on rejoint le plus vite à pied ou avec les transports sans attente. La comparaison utilise les durées complètes et vaut pour les vues à 5, 10 et 15 minutes.
+
+Le gris foncé indique une égalité entre plusieurs catégories. Une maille reste vide si le modèle ne trouve aucun trajet vers une destination.
 
 <a name="ranked-access"></a>
 
@@ -1429,7 +1445,7 @@ La carte affiche les destinations de la catégorie dans cette emprise. Les lieux
 
 [PDF A3](accessiviz-assets/print-maps/chemins-accessibles-a-pied-depuis-une-maille-de-colomiers-en-15-minutes.pdf?raw=true)
 
-[Télécharger le guide interactif (HTML)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/accessiviz-guide-interactif.html)
+[Télécharger le guide interactif (HTML)](https://github.com/MaxSpur/JE-AccessiViz/releases/download/sageo-2026-donnees/accessiviz-guide-interactif-v2.html)
 
 <details>
 <summary>Du rejeu aux indicateurs publiés</summary>
