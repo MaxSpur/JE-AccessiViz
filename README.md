@@ -15,7 +15,7 @@ L'idée est de travailler sur le rendu des cartes, en explorant collectivement l
 
 *Métaphore (rhétorique) : Figure d'expression par laquelle on désigne une entité conceptuelle au moyen d'un terme qui, en langue, en signifie une autre en vertu d'une analogie entre les deux entités rapprochées et finalement fondues.
 
-L'atelier va donc s'appuyer sur un ensemble de **données géo numériques disponibles sur la métropole Toulousaine**, incluant des indicateurs et des cartes d'accessibilités au rendu à retravailler. [accéder aux données](https://github.com/magisAR9/JE-AccessiViz/blob/main/data-accessiviz.md)
+L'atelier va donc s'appuyer sur un ensemble de **données géo numériques disponibles sur la métropole Toulousaine**, incluant des indicateurs et des cartes d'accessibilités au rendu à retravailler. [accéder aux données](data-accessiviz.md)
 
 ## Déroulé de l'atelier
 
